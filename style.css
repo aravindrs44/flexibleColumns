@@ -1,0 +1,27 @@
+.row    {
+    display: flex;
+    height: 75px;
+    
+}
+
+.col    {
+    flex: 1;
+}
+
+.col-2  {
+    flex: 2;
+}
+
+.col-3  {
+    flex: 3;
+}
+
+.umn    {
+    display: flex;
+    font-family: ;
+    color: whitesmoke;
+    background-color: #76b5c5;
+    margin: 10px;
+    align-items: center;
+    
+}
